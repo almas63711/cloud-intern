@@ -1,0 +1,55 @@
+# Linux File Management
+
+## 1. pwd
+Displays the current working directory.
+
+Example:
+pwd
+
+## 2. ls
+Lists files and directories.
+
+Example:
+ls -la
+
+## 3. mkdir
+Creates a new directory.
+
+Example:
+mkdir devops_practice
+
+## 4. cd
+Changes the current directory.
+
+Example:
+cd devops_practice
+
+## 5. touch
+Creates an empty file.
+
+Example:
+touch test.txt
+
+## 6. cat
+Displays file contents.
+
+Example:
+cat test.txt
+
+## 7. cp
+Copies files.
+
+Example:
+cp test.txt backup.txt
+
+## 8. mv
+Moves or renames files.
+
+Example:
+mv test.txt linux.txt
+
+## 9. rm
+Removes files.
+
+Example:
+rm linux.txt
